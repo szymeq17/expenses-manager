@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.panel {
+    border-radius: 10px;
+    width: 45%;
+
+}
+
+.placeholder {
+    margin-top: 20px;
+    background-color: #393E46;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.title {
+    color: white
+}
