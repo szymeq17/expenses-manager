@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function ExpenseItem() {
-  return (
-    <div>ExpenseItem</div>
-  )
+    return <div>ExpenseItem</div>;
 }
 
-export default ExpenseItem
+export default ExpenseItem;
