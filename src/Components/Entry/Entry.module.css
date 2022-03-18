@@ -1,0 +1,36 @@
+.container {
+    margin: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 40px;
+    background-color: #1eb384;
+}
+
+.info {
+    display: flex;
+    margin: auto 20px;
+}
+
+.pile {
+    background-color: #67ebb9;
+    color: #222831;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-right: 20px;
+    height: 25px;
+}
+
+.btn {
+    background-color: #007d52;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0px;
+    margin: auto 10px;
+    height: 30px;
+}

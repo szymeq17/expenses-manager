@@ -10,7 +10,7 @@
 }
 
 .input_label {
-    color: #D65A31;
+    color: #007d52;
     font-weight: 700;
 }
 
@@ -18,7 +18,7 @@
     height: 30px;
     width: 70px;
     border-radius: 5px;
-    background-color: #D65A31;
+    background-color: #007d52;
     border: 0;
     color: white;
     font-weight: 700;
@@ -27,5 +27,5 @@
 }
 
 .add_btn:hover {
-    background-color: #d86d4a;
+    background-color: #11b87d;
 }
